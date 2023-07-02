@@ -25,4 +25,4 @@ cd King
 
 python King.py
 
-[![IMG-20230702-WA0004.jpg](https://i.postimg.cc/HncTHdPk/IMG-20230702-WA0004.jpg)](https://postimg.cc/1VQkrhQk)
+[![IMG-20230701-WA0110.jpg](https://i.postimg.cc/Jh3ndNs4/IMG-20230701-WA0110.jpg)](https://postimg.cc/GB2d4sPZ)
