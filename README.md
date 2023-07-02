@@ -19,4 +19,10 @@ pip install requests
 
 pkg install git
 
-git clone
+git clone https://github.com/MAH1N-KING/King.git
+
+cd King
+
+python King.py
+
+[![IMG-20230702-WA0004.jpg](https://i.postimg.cc/HncTHdPk/IMG-20230702-WA0004.jpg)](https://postimg.cc/1VQkrhQk)
